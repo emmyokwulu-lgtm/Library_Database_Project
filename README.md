@@ -98,6 +98,7 @@ Queries to organize, paginate, and refine query results:
 - Sort all books alphabetically by title
 ![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/8b30c466a58da1e2b901a0aa0ccf84e116136112/Books%20sorted%20alphabetically.JPG)
 - List distinct book genres
+![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/ca22e8726517064a37509dca0f99820a0abc165e/Distinct%20genres.JPG)
 - Get top 5 most recent members
 - Skip the first 5 books and display the next 5
 - Show the 10 most recent loans not yet returned
