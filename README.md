@@ -84,6 +84,7 @@ Queries for extracting and filtering data:
 Queries to demonstrate the use of comparisom and logical operators in extracting analytical insights:
 
 - Books published after 2015
+![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/49f047a71f36aca70e9131da92395f2895046a3b/Books%20published%20from%20year%202016%20and%20above.JPG)
 - Members who joined before 2022
 - Books that are either Fiction or Mystery
 - Loans that have not been returned
