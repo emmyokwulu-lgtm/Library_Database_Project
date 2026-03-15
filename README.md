@@ -86,6 +86,7 @@ Queries to demonstrate the use of comparisom and logical operators in extracting
 - Books published after 2015
 ![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/49f047a71f36aca70e9131da92395f2895046a3b/Books%20published%20from%20year%202016%20and%20above.JPG)
 - Members who joined before 2022
+![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/6571caf0d1ab6711bd69acc1f9867c68a83e0671/Members%20who%20joined%20before%202022.JPG)
 - Books that are either Fiction or Mystery
 - Loans that have not been returned
 - Members who joined after 2020 and have borrowed books
