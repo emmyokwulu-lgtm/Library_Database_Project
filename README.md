@@ -92,6 +92,7 @@ Queries to demonstrate the use of comparisom and logical operators in extracting
 - Loans that have not been returned
 ![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/9ab599323ca0083fbd468d925c825bd7f984c505/Loans%20not%20yet%20returned.JPG)
 - Members who joined after 2020 and have borrowed books
+![image alt](https://github.com/emmyokwulu-lgtm/Library_Database_Project/blob/e21c3c76d0e924e6d376751ccec2906ffeb4df04/Members%20who%20joined%20after%202020%20and%20hahve%20borrowed%20books.JPG)
 
 Queries to organize, paginate, and refine query results:
 - Sort all books alphabetically by title
